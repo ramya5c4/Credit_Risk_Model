@@ -1,1 +1,1 @@
-# Credit_Risk_Model
+# Credit Risk Model
