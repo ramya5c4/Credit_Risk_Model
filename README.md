@@ -19,4 +19,15 @@ Other Factors: Loan amount, type of loan, term of the loan.
  </ul>
 
 </div>
+<div>
+   <h2>Tools & Technologies Used</h2>
+    <ul>
+      <li>Python</li>
+      <li>Scikit-learn</li>
+      <li>Pandas</li>
+      <li>NumPy</li>
+      <li>Jupyter Notebook</li>
+      <li>Matplotlib/Seaborn</li>
+    </ul>
+  </div>
 
