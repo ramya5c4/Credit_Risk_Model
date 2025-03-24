@@ -1,1 +1,2 @@
-# Credit Risk Model
+<h1>Credit Risk Model</h1>
+<div>&nbsp&nbsp&nbsp&nbspA Credit Risk Model using Machine Learning (ML) is designed to predict the likelihood of a borrower defaulting on a loan or failing to meet financial obligations. The primary goal of these models is to assess the creditworthiness of individuals or businesses applying for credit or loans based on their financial behavior, credit history, and other related features.</div>
